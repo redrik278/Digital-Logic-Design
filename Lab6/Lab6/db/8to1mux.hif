@@ -1,0 +1,42 @@
+Version 9.0 Build 184 04/29/2009 Service Pack 1 SJ Web Edition
+7
+3344
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+8to1mux
+# storage
+db|8to1mux.(0).cnf
+db|8to1mux.(0).cnf
+# case_insensitive
+# source_file
+8to1mux.bdf
+eb09a1f41783b73455eba23740db25
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+

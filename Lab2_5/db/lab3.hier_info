@@ -1,0 +1,22 @@
+|lab3
+A <= inst49.DB_MAX_OUTPUT_PORT_TYPE
+A3 => inst30.IN0
+A3 => inst.IN0
+B3 => inst22.IN0
+B3 => inst29.IN1
+A2 => inst32.IN0
+A2 => inst23.IN0
+B2 => inst24.IN0
+B2 => inst31.IN1
+A1 => inst34.IN0
+A1 => inst25.IN0
+B1 => inst26.IN0
+B1 => inst33.IN1
+A0 => inst36.IN0
+A0 => inst27.IN0
+B0 => inst28.IN0
+B0 => inst35.IN1
+equal <= inst47.DB_MAX_OUTPUT_PORT_TYPE
+B <= inst48.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,24 @@
+|POS
+X <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+A => inst3.IN0
+A => inst1.IN0
+A => inst2.IN0
+A => inst7.IN0
+A => inst8.IN0
+A => inst9.IN0
+C => inst5.IN0
+C => inst1.IN1
+C => inst2.IN1
+C => inst8.IN1
+C => inst9.IN1
+D => inst3.IN2
+D => inst1.IN2
+D => inst6.IN0
+D => inst8.IN2
+B => inst3.IN3
+B => inst1.IN3
+B => inst2.IN3
+B => inst7.IN3
+B => inst4.IN0
+
+
